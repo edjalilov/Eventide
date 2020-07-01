@@ -255,6 +255,7 @@
 
     .register__show {
         top: 49%;
+        padding: 0;
     }
 
     .auth__show .far,
