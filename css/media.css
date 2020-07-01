@@ -254,7 +254,7 @@
     }
 
     .register__show {
-        top: 55%;
+        top: 49%;
     }
 
     .auth__show .far,
@@ -268,7 +268,7 @@
     }
 
     .register__form-btn {
-        margin-top: 40px;
+        margin-top: 30px;
     }
 
     .auth__socials {
